@@ -10,7 +10,7 @@ The model predicts one of three possible match outcomes:
 - Team 2 Win
 
 
----
+ 
 
 ## Project Overview
 
@@ -27,7 +27,7 @@ This project attempts to model international football outcomes using historical 
 
 The model was trained using a chronological train-test split to reduce data leakage and better reflect real-world prediction, where future results should not influence past training data.
 
----
+ 
 
 ## Related Article
 
@@ -35,7 +35,7 @@ I wrote a Medium article explaining the motivation, process, challenges, and res
 
 [Can Machine Learning be used to predict World Cup matches?](https://medium.com/@thevictoradams/can-machine-learning-be-used-to-predict-world-cup-matches-84ed9e8978ae)
 
----
+ 
 
 ## LinkedIn Post
 
@@ -45,7 +45,7 @@ LinkedIn post: `[Here](https://www.linkedin.com/posts/victor-adams-22519431a_mac
 
 LinkedIn profile: `linkedin.com/in/victor-adams-22519431a/`
 
----
+ 
 
 ## Model Target
 
@@ -57,7 +57,7 @@ The model is a multi-class classifier with the following target labels:
 | 1 | Team 1 Win |
 | 2 | Team 2 Win |
 
----
+ 
 
 ## Features Used
 
@@ -89,7 +89,7 @@ team_2_last5_form_points
 
 These features allow the model to compare each team's overall strength, recent attacking performance, defensive performance, and form.
 
----
+ 
 
 ## Model Performance
 
@@ -107,7 +107,7 @@ Accuracy: 60.22%
 Log Loss: 0.8967
 ```
 
----
+ 
 
 ## Classification Report
 
@@ -123,7 +123,7 @@ Log Loss: 0.8967
 weighted avg       0.56      0.60      0.56       812
 ```
 
----
+ 
 
 ## Confusion Matrix
 
@@ -141,7 +141,7 @@ The confusion matrix can be interpreted as:
 | Team 1 Win         |   14 |        331 |         45 |
 | Team 2 Win         |   24 |         75 |        137 |
 
----
+ 
 
 ## Results Interpretation
 
@@ -165,7 +165,7 @@ However, draw prediction was the weakest area of the model. The draw class achie
 
 This shows that the model struggled to correctly identify draws and often predicted a winning team instead.
 
----
+ 
 
 ## Key Challenge: Predicting Draws
 
@@ -196,7 +196,7 @@ Log loss is also useful because it evaluates the quality of the model's predicte
 
 A model can make the correct prediction but still be poorly calibrated if its probability estimates are unreliable. For this reason, log loss provides an additional way to evaluate how confident and realistic the model's predictions are.
 
----
+ 
  
 
 ## Future Improvements
@@ -215,7 +215,7 @@ Potential improvements include:
 
 The goal of this project is to explore how machine learning can be used to predict international football match outcomes and apply those predictions to a World Cup simulation.
  
----
+ 
 
 ## Technologies Used
 
@@ -227,15 +227,12 @@ The goal of this project is to explore how machine learning can be used to predi
 * Matplotlib
 * Seaborn
 
----
+ 
 
 ## Author
 
 Victor Adams
 
-Medium Article on this project: [@thevictoradams]([https://medium.com/@thevictoradams](https://medium.com/@thevictoradams/can-machine-learning-be-used-to-predict-world-cup-matches-84ed9e8978ae))
-
-LinkedIn:[ `ADD_YOUR_LINKEDIN_PROFILE_LINK_HERE`](https://www.linkedin.com/in/victor-adams-22519431a/)
-
+ 
 ```
 ```
