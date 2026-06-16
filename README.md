@@ -1,4 +1,4 @@
-````markdown
+ 
 # World Cup 2026 Match Predictor
 
 This project uses machine learning to predict the outcome of international football matches, with a focus on applying the model to the 2026 FIFA World Cup.
