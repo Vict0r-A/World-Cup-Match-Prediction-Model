@@ -41,7 +41,7 @@ I wrote a Medium article explaining the motivation, process, challenges, and res
 
 I also shared this project on LinkedIn as part of my football analytics and machine learning content.
 
-LinkedIn post: `[ADD_YOUR_LINKEDIN_POST_LINK_HERE](https://www.linkedin.com/posts/victor-adams-22519431a_machinelearning-datascience-footballanalytics-share-7471525367896514560-ii7X/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFDUIT0BsOFrgpcaY_YtUECNzj0UIw-Z42Y)`
+LinkedIn post: `[Here](https://www.linkedin.com/posts/victor-adams-22519431a_machinelearning-datascience-footballanalytics-share-7471525367896514560-ii7X/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFDUIT0BsOFrgpcaY_YtUECNzj0UIw-Z42Y)`
 
 LinkedIn profile: `linkedin.com/in/victor-adams-22519431a/`
 
